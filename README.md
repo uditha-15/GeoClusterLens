@@ -31,7 +31,7 @@ Make sure to install the following Python libraries:
 pip install exifread pandas numpy scikit-learn folium
 ```
 
-##🗺️ Map Preview
+## 🗺️ Map Preview
 
 Once the ipynb cells finish running, a geotagged_clusters_map.html is created. Open that in your browser to view a live interactive map of the clustered image locations.
 
